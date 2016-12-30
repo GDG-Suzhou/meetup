@@ -9,16 +9,15 @@
 - [Github GDG Suzhou](https://github.com/GDG-Suzhou)
 - [微博](http://weibo.com/gdgsuzhou)
 - [网站](http://www.gdg-suzhou.org)
-- 微信 搜索: gdgsuzhou 或扫描下面二维码![GDG Suzhou QR Code](/images/gdg-suzhou-qr-code.jpg)
-
-
-
+- 微信 搜索: gdgsuzhou 或扫描下面二维码
+<div align=center>
+![GDG Suzhou QR Code](/images/gdg-suzhou-qr-code.jpg)
+</div>
 
 ## GDG Suzhou meetup workflow
 
 - codebase 保存每次活动分享资料
 - [wiki 用于记录组织架构、活动策划](https://github.com/GDG-Suzhou/meetup/wiki)
-
 
 ## git 仓库使用
 
