@@ -8,6 +8,10 @@
 
 **[欢迎直接浏览、修改 wiki 参与到社区组织中来](https://github.com/GDG-Suzhou/meetup/wiki)**
 
+## 志愿者列表
+
+姓名，最近参与组织时间，个人简介
+
 ## 活动发布渠道
 
 - [微博](http://weibo.com/gdgsuzhou)
